@@ -9,6 +9,7 @@ Este projeto foi desenvolvido em Python com o objetivo de simular um sistema sim
 🚀 Funcionalidades
 Cadastro de múltiplos atendimentos.
 Validação de entradas utilizando try/except.
+
 Verificação de tipos de atendimento permitidos:
 Suporte
 Reclamação
@@ -20,19 +21,30 @@ Contagem automática da quantidade de atendimentos por categoria.
 Exibição do atendimento com maior tempo de duração.
 🛠️ Tecnologias utilizadas
 Python 3
+
 📚 Conceitos praticados
+
 
 Durante o desenvolvimento deste projeto foram aplicados diversos conceitos fundamentais da linguagem Python, como:
 
 Estruturas de repetição (for e while)
+
 Estruturas condicionais (if, elif e else)
+
 Tratamento de exceções (try/except)
+
 Listas
+
 Dicionários
+
 List Comprehension
+
 Validação de dados
 Manipulação de coleções
+
 Cálculos estatísticos simples
+
 🎯 Objetivo
+
 
 O principal objetivo deste projeto foi praticar lógica de programação, validação de dados e manipulação de estruturas de dados em Python, simulando um cenário real de controle de atendimentos em uma central de suporte.
